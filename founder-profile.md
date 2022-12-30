@@ -1,6 +1,6 @@
 # Founder Profile
 
-Hello there :) Welcome to Aucry. I'm Mark Newby. I wanted to give an open and public account of what led me to Aucry, along with background on who I am. This is a long article, but I hope it helps to build confidence in the project and what I'm hoping to achieve.
+Hello there :) Welcome to Aucry. I'm [Mark Newby](https://www.linkedin.com/in/mjnewby/). I wanted to give an open and public account of what led me to Aucry, along with background on who I am. This is a long article, but I hope it helps to build confidence in the project and what I'm hoping to achieve.
 
 ### Early Years
 
